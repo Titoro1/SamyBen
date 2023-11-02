@@ -1,4 +1,4 @@
-# SamyBen' CAl Poly POmona github
+# SamyBen's Cal Poly Pmona github
 ## project
 
 1. [retail analytics](link me here)

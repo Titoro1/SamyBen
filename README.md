@@ -9,11 +9,11 @@
 1. ...
 2. ...
 
-## CIS 2100 (Programming for Business Analytics)
+### CIS 2100 (Programming for Business Analytics)
 1. Titnaic
 2. Boston Housing
 
-## Personal Project 
+### Personal Project 
 1. COVID19 Data Visualization Using Python
 2. NLP: Twitter Sentiment Analysis
 3. Visualizing Citibike Trips with Tableau

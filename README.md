@@ -2,7 +2,7 @@
 ## Project
 ### CIS 3100 (Management Information Systems)
 1. [Retail Analytics](Samy_Benjelloun_Project_5_6,_3100_ulta_quartiles.ipynb)
-2. [Machine Learning Applied Supervised Learning / Classification] ()
+2. Machine Learning Applied Supervised Learning / Classification
 3. Data Science
 4. [Machine Learning Applied Unsupervised Learning Project](Samy_Benjelloun_commodity_clusters+plotly.ipynb)
 

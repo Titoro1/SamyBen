@@ -13,7 +13,7 @@
 1. CIS 2100 Jupyter Notebook
 
 ### Personal Project 
-1. COVID19 Data Visualization Using Python
+1. Visualizing Citibike Trips with Tableau
 2. NLP: Twitter Sentiment Analysis
-3. Visualizing Citibike Trips with Tableau
+3. COVID19 Data Visualization Using Python
 4. Data Analysis with SQL: Inform a Business Decision

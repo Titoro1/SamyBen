@@ -7,12 +7,11 @@
 4. [Machine Learning Applied Unsupervised Learning Project](Samy_Benjelloun_commodity_clusters+plotly.ipynb)
 
 ### CIS 3252 (Business Intelligence)
-1. CIS 3252 Jupyter note books
+1. CIS 3252 Jupyter Notebook
 2. [Final Project - HR Analytics](Final_Project_Benjelloun_Samy.ipynb)
 
 ### CIS 2100 (Programming for Business Analytics)
-1. Titnaic
-2. Boston Housing
+1. CIS 2100 Jupyter Notebook
 
 ### Personal Project 
 1. COVID19 Data Visualization Using Python

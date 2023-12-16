@@ -1,9 +1,10 @@
 # Samy Benjelloun's Cal Poly Pomona github
 ## Project
 ### CIS 3100 (Management Information Systems)
-1. [Data Science - Retail Analytics](Samy_Benjelloun_Project_5_6,_3100_ulta_quartiles.ipynb)
-2. Machine Learning Applied Supervised Learning / Classification
-3. [Machine Learning Applied Unsupervised Learning Project](Samy_Benjelloun_commodity_clusters+plotly.ipynb)
+1. Data Analytics - Retail Analytics
+2. [Data Science - Retail Analytics](Samy_Benjelloun_Project_5_6,_3100_ulta_quartiles.ipynb)
+3. Machine Learning Applied Supervised Learning / Classification
+4. [Machine Learning Applied Unsupervised Learning Project](Samy_Benjelloun_commodity_clusters+plotly.ipynb)
 
 ### CIS 3252 (Business Intelligence)
 1. CIS 3252 Jupyter Notebook

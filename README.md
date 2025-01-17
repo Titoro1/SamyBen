@@ -1,5 +1,8 @@
 # Samy Benjelloun's Cal Poly Pomona github
 ## Project
+### CIS 4321 (Data Mining)
+1. Exploratory Data Analytics - Machine Learning (Final_Project_Benjelloun_Samy.ipynb)
+
 ### CIS 3100 (Management Information Systems)
 1. Data Analytics - Retail Analytics
 2. [Data Science - Retail Analytics](Samy_Benjelloun_Project_5_6,_3100_ulta_quartiles.ipynb)

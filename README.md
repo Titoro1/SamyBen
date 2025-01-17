@@ -12,9 +12,9 @@ Financial inclusivity and risk management are more critical than ever, and under
 
 ###  Solving Workforce Attrition: Using Business Intelligence in Google Collab for my final Project
 #### CIS 3252 (Business Intelligence)
-1. [CIS 3252 Jupyter Notebook](https://drive.google.com/drive/u/0/folders/1_N2Xls8uaYpP64GABGZPZXsLenJM3-bS)
-2. [Final Project - HR Analytics](Final_Project_Benjelloun_Samy.ipynb)
-3. [Business Intelligence - PDF Report]()
+1. [Final Project - HR Analytics](Final_Project_Benjelloun_Samy.ipynb)
+2. [Business Intelligence - PDF Report]()
+3. [CIS 3252 Jupyter Notebook](https://drive.google.com/drive/u/0/folders/1_N2Xls8uaYpP64GABGZPZXsLenJM3-bS)
 
 ## Other School Project
 #### CIS 3100 (Management Information Systems)
@@ -23,9 +23,6 @@ Financial inclusivity and risk management are more critical than ever, and under
 3. Machine Learning Applied Supervised Learning / Classification
 4. [Machine Learning Applied Unsupervised Learning Project](Samy_Benjelloun_commodity_clusters+plotly.ipynb)
 
-#### CIS 3252 (Business Intelligence)
-1. [CIS 3252 Jupyter Notebook](https://drive.google.com/drive/u/0/folders/1_N2Xls8uaYpP64GABGZPZXsLenJM3-bS)
-2. [Final Project - HR Analytics](Final_Project_Benjelloun_Samy.ipynb)
 
 #### CIS 2100 (Programming for Business Analytics)
 1. CIS 2100 Jupyter Notebook

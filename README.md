@@ -2,19 +2,20 @@
 I'm Samy Benjelloun, a recent graduate from California State Polytechnic University, Pomona, with a Bachelor of Science in Business Administration, focusing on Computer Information Systems and an emphasis in Business Intelligence. With expertise in data analysis, visualization, and database management, I excel in problem-solving and teamwork. I'm keen to apply my skills in a role that values innovation and learning.
 - [LinkedIn](https://www.linkedin.com/in/samy-benjelloun/)
 - [CV / Resume](link)
+  
 ## Projects
 ### How can machine learning models predict credit risk?
 Financial inclusivity and risk management are more critical than ever, and understanding the dynamics of credit risk become important for banks and consumers. This project stems from a deep interest in technology and finance, more specifically how data-driven insights can improve decision-making in credit lending
-
 #### CIS 4321 (Data Mining)
 1. [Exploratory Data Analytics - Collab](Samy_Benjelloun_Final_Project.ipynb)
 2. [Exploratory Data Analytics - PDF report]()
 
 ###  Solving Workforce Attrition: Using Business Intelligence in Google Collab for my final Project
+Managing Human Resources effectively is crucial for an organization’s success. This project focuses on leveraging data-driven insights to understand the factors contributing to attrition within a corporate setup by employing data preprocessing, descriptive analytics, and data visualization techniques.
 #### CIS 3252 (Business Intelligence)
 1. [Final Project - HR Analytics](Final_Project_Benjelloun_Samy.ipynb)
 2. [Business Intelligence - PDF Report]()
-3. [CIS 3252 Jupyter Notebook](https://drive.google.com/drive/u/0/folders/1_N2Xls8uaYpP64GABGZPZXsLenJM3-bS)
+3. [CIS 3252 Jupyter Notebooks](https://drive.google.com/drive/u/0/folders/1_N2Xls8uaYpP64GABGZPZXsLenJM3-bS)
 
 ## Other School Project
 #### CIS 3100 (Management Information Systems)

@@ -14,7 +14,7 @@ Financial inclusivity and risk management are more critical than ever, and under
 Managing Human Resources effectively is crucial for an organization’s success. This project focuses on leveraging data-driven insights to understand the factors contributing to attrition within a corporate setup by employing data preprocessing, descriptive analytics, and data visualization techniques.
 #### CIS 3252 (Business Intelligence)
 1. [Final Project - HR Analytics](Final_Project_Benjelloun_Samy.ipynb)
-2. [Business Intelligence - PDF Report](CIS 3252 - Final Project Report - Benjelloun_Samy.pdf) 
+2. [Business Intelligence - PDF Report](https://github.com/Titoro1/SamyBen/blob/7703185069353c4c017e8c828e96f6c76b1eabaf/CIS%203252%20-%20Final%20Project%20Report%20-%20Benjelloun_Samy.pdf) 
 3. [CIS 3252 Jupyter Notebooks](https://drive.google.com/drive/u/0/folders/1_N2Xls8uaYpP64GABGZPZXsLenJM3-bS)
 
 ## Other School Project

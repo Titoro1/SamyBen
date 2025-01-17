@@ -7,8 +7,8 @@ I'm Samy Benjelloun, a recent graduate from California State Polytechnic Univers
 ### How can machine learning models predict credit risk?
 Financial inclusivity and risk management are more critical than ever, and understanding the dynamics of credit risk become important for banks and consumers. This project stems from a deep interest in technology and finance, more specifically how data-driven insights can improve decision-making in credit lending
 #### CIS 4321 (Data Mining)
-1. [Exploratory Data Analytics - Collab](Samy_Benjelloun_Final_Project.ipynb)
-2. [Exploratory Data Analytics - PDF report]()
+1. [Exploratory Data Analytics - .ipynb](Samy_Benjelloun_Final_Project.ipynb)
+2. [Exploratory Data Analytics - .pdf Report([Samy_Benjelloun_FinalProject.pdf](https://github.com/Titoro1/SamyBen/blob/5000005c21002d496fcf1634f0daddb65237d555/Samy_Benjelloun_FinalProject.pdf))
 
 ###  Solving Workforce Attrition: Using Business Intelligence in Google Collab for my final Project
 Managing Human Resources effectively is crucial for an organization’s success. This project focuses on leveraging data-driven insights to understand the factors contributing to attrition within a corporate setup by employing data preprocessing, descriptive analytics, and data visualization techniques.

@@ -9,6 +9,7 @@ Financial inclusivity and risk management are more critical than ever, and under
 #### CIS 4321 (Data Mining)
 1. [Exploratory Data Analytics - .ipynb](Samy_Benjelloun_Final_Project.ipynb)
 2. [Exploratory Data Analytics - .pdf report](https://github.com/Titoro1/SamyBen/blob/5000005c21002d496fcf1634f0daddb65237d555/Samy_Benjelloun_FinalProject.pdf)
+3. [CIS 4321 Jupiter Notebook](https://drive.google.com/drive/u/0/folders/1YEdJsOgrto6UwvY2L2aE9AaZgifp5QRP)
 
 ###  Solving Workforce Attrition: Using Business Intelligence in Google Collab for my final Project
 Managing Human Resources effectively is crucial for an organization’s success. This project focuses on leveraging data-driven insights to understand the factors contributing to attrition within a corporate setup by employing data preprocessing, descriptive analytics, and data visualization techniques.

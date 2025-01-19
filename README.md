@@ -16,7 +16,7 @@ This project involves working with a dataset from a campground business. I desig
 a logical model ERD based on the provided data, create the corresponding database, and execute
 queries to extract meaningful insights and address specific business questions.
 #### CIS 3050 (Database Design and Development)
-1. [Campground Management System]()
+- [Campground Management System](https://github.com/Titoro1/SamyBen/blob/ef119ea63935ce0f44f4b3cefa7a01904c71e90a/CIS%203252%20-%20Final%20Project%20Report%20-%20Benjelloun_Samy.pdf)
 
 
 ###  Solving Workforce Attrition: Using Business Intelligence in Google Collab for my final Project

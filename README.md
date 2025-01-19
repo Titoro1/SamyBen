@@ -11,12 +11,25 @@ Financial inclusivity and risk management are more critical than ever, and under
 2. [Exploratory Data Analytics - .pdf report](https://github.com/Titoro1/SamyBen/blob/5000005c21002d496fcf1634f0daddb65237d555/Samy_Benjelloun_FinalProject.pdf)
 3. [CIS 4321 Jupiter Notebook](https://drive.google.com/drive/u/0/folders/1YEdJsOgrto6UwvY2L2aE9AaZgifp5QRP)
 
+### Designed a logical model ERD model and excuted queries for a campground business.
+This project involves working with a dataset from a campground business. I designed
+a logical model ERD based on the provided data, create the corresponding database, and execute
+queries to extract meaningful insights and address specific business questions.
+#### CIS 3050 (Database Design and Development)
+1. [Campground Management System]()
+
+
 ###  Solving Workforce Attrition: Using Business Intelligence in Google Collab for my final Project
 Managing Human Resources effectively is crucial for an organization’s success. This project focuses on leveraging data-driven insights to understand the factors contributing to attrition within a corporate setup by employing data preprocessing, descriptive analytics, and data visualization techniques.
 #### CIS 3252 (Business Intelligence)
 1. [Business Intelligence HR Analytics - .ipynb](Final_Project_Benjelloun_Samy.ipynb)
 2. [Business Intelligence HR Analytics - .pdf Report](https://github.com/Titoro1/SamyBen/blob/7703185069353c4c017e8c828e96f6c76b1eabaf/CIS%203252%20-%20Final%20Project%20Report%20-%20Benjelloun_Samy.pdf) 
 3. [CIS 3252 Jupyter Notebooks](https://drive.google.com/drive/u/0/folders/1_N2Xls8uaYpP64GABGZPZXsLenJM3-bS)
+
+### As a data engineers, I built a simple data warehouse for a web hosting services provider using Azure.
+They offers services to customers living in different countries. The services offer three different package. The data warehouse's goal is to help the web hosting company track and understand its sales trends.
+1. [Azure Data Warehouse Report]()
+2. [Azure Data Warehouse .pptx]()
 
 ## Other School Project
 #### CIS 3100 (Management Information Systems)
@@ -25,9 +38,6 @@ Managing Human Resources effectively is crucial for an organization’s success.
 3. Machine Learning Applied Supervised Learning / Classification
 4. [Machine Learning Applied Unsupervised Learning Project](Samy_Benjelloun_commodity_clusters+plotly.ipynb)
 
-
-#### CIS 2100 (Programming for Business Analytics)
-1. CIS 2100 Jupyter Notebook
 
 ### Personal Project 
 1. Visualizing Citibike Trips with Tableau

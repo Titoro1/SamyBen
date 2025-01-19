@@ -11,7 +11,7 @@ Financial inclusivity and risk management are more critical than ever, and under
 2. [Exploratory Data Analytics - .pdf report](https://github.com/Titoro1/SamyBen/blob/5000005c21002d496fcf1634f0daddb65237d555/Samy_Benjelloun_FinalProject.pdf)
 3. [CIS 4321 Jupiter Notebook](https://drive.google.com/drive/u/0/folders/1YEdJsOgrto6UwvY2L2aE9AaZgifp5QRP)
 
-### Designed a logical model ERD model and excuted queries for a campground business.
+### Designed a logical model ERD model and excuted SQL queries for a campground business.
 This project involves working with a dataset from a campground business. I designed
 a logical model ERD based on the provided data, create the corresponding database, and execute
 queries to extract meaningful insights and address specific business questions.
@@ -28,8 +28,14 @@ Managing Human Resources effectively is crucial for an organization’s success.
 
 ### As a data engineers, I built a simple data warehouse for a web hosting services provider using Azure.
 They offers services to customers living in different countries. The services offer three different package. The data warehouse's goal is to help the web hosting company track and understand its sales trends.
+#### CIS 3454 (Data Warehousing)
 1. [Azure Data Warehouse Report]()
 2. [Azure Data Warehouse .pptx]()
+
+### Evaluating MOLAP, ROLAP, and HOLAP for a Pharmaceutical Manufacturer's Data Warehouse Project
+As a team we evaluated Multidimensional OLAP (MOLAP), Relational OLAP (ROLAP), and Hybrid OLAP (HOLAP) and made informed recommendations for their implementation in the data warehouse project for a large pharmaceutical manufacturer. 
+#### CIS 3454 (Data Warehousing)
+- [Project Report .pdf]()
 
 ## Other School Project
 #### CIS 3100 (Management Information Systems)

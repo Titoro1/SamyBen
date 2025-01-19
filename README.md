@@ -1,5 +1,6 @@
 # Samy Benjelloun's Business Analyst Portfolio github
-I'm Samy Benjelloun, a recent graduate from California State Polytechnic University, Pomona, with a Bachelor of Science in Business Administration, focusing on Computer Information Systems and an emphasis in Business Intelligence. With expertise in data analysis, visualization, and database management, I excel in problem-solving and teamwork. I'm keen to apply my skills in a role that values innovation and learning.
+I'm Samy Benjelloun, a recent graduate from California State Polytechnic University, Pomona, with a Bachelor of Science in Business Administration, focusing on Computer Information Systems and an emphasis in Business Intelligence. Passionate about transforming data into actionable insights with expertise in data analysis, visualization, and database management, I excel in problem-solving and teamwork. I'm keen to apply my skills in a role that values innovation and learning. 
+
 - [LinkedIn](https://www.linkedin.com/in/samy-benjelloun/)
 - [CV / Resume](link)
   

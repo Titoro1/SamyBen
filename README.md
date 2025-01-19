@@ -11,7 +11,7 @@ Financial inclusivity and risk management are more critical than ever, and under
 2. [Exploratory Data Analytics - .pdf report](https://github.com/Titoro1/SamyBen/blob/5000005c21002d496fcf1634f0daddb65237d555/Samy_Benjelloun_FinalProject.pdf)
 3. [CIS 4321 Jupiter Notebook](https://drive.google.com/drive/u/0/folders/1YEdJsOgrto6UwvY2L2aE9AaZgifp5QRP)
 
-### Designed a logical model ERD model and excuted SQL queries for a campground business.
+### Designed a logical ERD model and excuted SQL queries for a campground business.
 This project involves working with a dataset from a campground business. I designed
 a logical model ERD based on the provided data, create the corresponding database, and execute
 queries to extract meaningful insights and address specific business questions.

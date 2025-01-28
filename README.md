@@ -23,7 +23,7 @@ queries to extract meaningful insights and address specific business questions.
 
 ### Completed a job simulation where I strengthened my PowerBI skills to better understand clients and their data visualisation needs
 Participated in PwC's virtual job simulation where I practiced creating a Power BI dashboard for visualizing key performance indicators (KPIs) and metrics. Leveraged analytical problem-solving skills to examine HR data, focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level.
-- [Power BI Dashboard]()
+- [Power BI Dashboard](https://github.com/Titoro1/SamyBen/blob/d0abc4cfa2303d5aca20324eed5c1ea9c200f257/HR%20KPI%20Power%20BI%20(1).pdf)
 
 
 ###  Solving Workforce Attrition: Using Business Intelligence in Google Collab for my final Project

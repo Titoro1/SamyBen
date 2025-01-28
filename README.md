@@ -36,7 +36,7 @@ They offers services to customers living in different countries. The services of
 ### Evaluating MOLAP, ROLAP, and HOLAP for a Pharmaceutical Manufacturer's Data Warehouse Project
 As a team we evaluated Multidimensional OLAP (MOLAP), Relational OLAP (ROLAP), and Hybrid OLAP (HOLAP) and made informed recommendations for their implementation in the data warehouse project for a large pharmaceutical manufacturer. 
 #### CIS 3454 (Data Warehousing)
-- [Project Report .pdf]()
+- [Project Report .pdf](Olap_Mini_project.pdf)
 
 ## Other School Project
 #### CIS 3100 (Management Information Systems)

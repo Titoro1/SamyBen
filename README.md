@@ -21,7 +21,7 @@ queries to extract meaningful insights and address specific business questions.
 #### CIS 3050 (Database Design and Development)
 - [Campground Management System](https://github.com/Titoro1/SamyBen/blob/28120b6b52e17b1e8b18b5532d91c0fba23e430f/Campground%20Project%20-%20Benjelloun%20S.pdf)
 
-### Completed a job simulation where I strengthened my PowerBI skills to better understand clients and their data visualisation needs
+### Completed a job simulation to strengthened my PowerBI skills and to better understand clients and their data visualisation needs
 Participated in PwC's virtual job simulation where I practiced creating a Power BI dashboard for visualizing key performance indicators (KPIs) and metrics. Leveraged analytical problem-solving skills to examine HR data, focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level.
 - [Power BI Dashboard](https://github.com/Titoro1/SamyBen/blob/d0abc4cfa2303d5aca20324eed5c1ea9c200f257/HR%20KPI%20Power%20BI%20(1).pdf)
 

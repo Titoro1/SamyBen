@@ -50,7 +50,7 @@ As a team, we evaluated Multidimensional OLAP (MOLAP), Relational OLAP (ROLAP), 
 High crime rates can impact local economies and hinder educational outcomes. This project utilizes ArcGIS Pro to spatially analyze these relationships, offering valuable insights for targeted interventions, urban planning, and resource allocation to create safer communities, spur economic growth, and enhance education.
 1. [StoryMaps ArcGISPro .pdf](ArcGISPro_Final_Group_Project.pdf)
 2. [StoryMaps ArcGISPro link to project](https://storymaps.arcgis.com/stories/feb2a3a5b0b04dd79b0436db044eee19)
-3. [Project Report .pdf]()
+3. [Project Report .pdf](https://docs.google.com/document/d/1dxjj4csfXm0FnTEC6XUJpStLJf2PTGAx3vMrgv3sHhg/edit?usp=sharing)
 
 
 

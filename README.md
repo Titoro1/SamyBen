@@ -46,7 +46,7 @@ As a team, we evaluated Multidimensional OLAP (MOLAP), Relational OLAP (ROLAP), 
 #### CIS 3454 (Data Warehousing)
 - [Project Report .pdf](Olap_Mini_project.pdf)
 
-## ArcGISPro Project
+## ArcGISPro Projects
 ### How do education rates affect crime rates in the area of Los Angeles?
 High crime rates can impact local economies and hinder educational outcomes. This project utilizes ArcGIS Pro to spatially analyze these relationships, offering valuable insights for targeted interventions, urban planning, and resource allocation to create safer communities, spur economic growth, and enhance education.
 1. [StoryMaps ArcGISPro .pdf](ArcGISPro_Final_Group_Project.pdf)
@@ -55,7 +55,7 @@ High crime rates can impact local economies and hinder educational outcomes. Thi
 
 ### Understanding the housing market in the area of Seattle, WA using Machine Learning in ArcGISPro
 Employed a Generalized Regression Model to handle a non-linear relationship to manage many input variables using ArcGIS Pro. Seattle's housing development is a dynamic and complex issue, reflecting the interplay of economic forces, demographic changes, and policy decisions. 
-1. [StoryMaps ArcGISPro .pdf]()
+1. [StoryMaps ArcGISPro .pdf](ArcGISPro_Seattle's_Neighborhoods.pdf)
 2. [StoryMaps ArcGISPro link to project](https://storymaps.arcgis.com/stories/2d63aa1a6a2440c28c2a13fa91162f38)
 
 ## Other School Project

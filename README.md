@@ -1,5 +1,5 @@
-# Samy Benjelloun's Business Analyst Portfolio github
-I'm Samy Benjelloun, a recent graduate from California State Polytechnic University, Pomona, with a Bachelor of Science in Business Administration, focusing on Computer Information Systems and an emphasis in Business Intelligence. Passionate about transforming data into actionable insights with expertise in data analysis, visualization, and database management, I excel in problem-solving and teamwork. I'm keen to apply my skills in a role that values innovation and learning. 
+# Samy Benjelloun's Business Analyst Portfolio GitHub
+I'm Samy Benjelloun, a recent graduate from California State Polytechnic University, Pomona, with a Bachelor of Science in Business Administration, focusing on Computer Information Systems and an emphasis on Business Intelligence. Passionate about transforming data into actionable insights with expertise in data analysis, visualization, and database management, I excel in problem-solving and teamwork. I'm keen to apply my skills in a role that values innovation and learning. 
 
 - [LinkedIn](https://www.linkedin.com/in/samy-benjelloun/)
 - [CV / Resume](link)
@@ -14,14 +14,14 @@ Financial inclusivity and risk management are more critical than ever, and under
 3. [CIS 4321 Jupiter Notebook](https://drive.google.com/drive/u/0/folders/1YEdJsOgrto6UwvY2L2aE9AaZgifp5QRP)
 
 
-### Designed a logical ERD model and excuted SQL queries for a campground business.
+### Designed a logical ERD model and executed SQL queries for a campground business.
 This project involves working with a dataset from a campground business. I designed
-a logical model ERD based on the provided data, create the corresponding database, and execute
+a logical model ERD based on the provided data, created the corresponding database, and executed
 queries to extract meaningful insights and address specific business questions.
 #### CIS 3050 (Database Design and Development)
 - [Campground Management System](https://github.com/Titoro1/SamyBen/blob/28120b6b52e17b1e8b18b5532d91c0fba23e430f/Campground%20Project%20-%20Benjelloun%20S.pdf)
 
-### Completed a job simulation to strengthened my PowerBI skills and to better understand clients and their data visualisation needs
+### Built a PowerBI Dashboard for PwC to better understand clients and their data visualization needs
 Participated in PwC's virtual job simulation where I practiced creating a Power BI dashboard for visualizing key performance indicators (KPIs) and metrics. Leveraged analytical problem-solving skills to examine HR data, focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level.
 - [Power BI Dashboard](https://github.com/Titoro1/SamyBen/blob/d0abc4cfa2303d5aca20324eed5c1ea9c200f257/HR%20KPI%20Power%20BI%20(1).pdf)
 
@@ -34,15 +34,15 @@ Managing Human Resources effectively is crucial for an organization’s success.
 3. [CIS 3252 Jupyter Notebooks](https://drive.google.com/drive/u/0/folders/1_N2Xls8uaYpP64GABGZPZXsLenJM3-bS)
 
 
-### As a data engineers, I built a simple data warehouse for a web hosting services provider using Azure.
-They offers services to customers living in different countries. The services offer three different package. The data warehouse's goal is to help the web hosting company track and understand its sales trends.
+### As a data engineer, I built a simple data warehouse for a web hosting services provider using Azure.
+They offer services to customers living in different countries. The services offer three different packages. The data warehouse aims to help the web hosting company track and understand its sales trends.
 #### CIS 3454 (Data Warehousing)
 1. [Azure Data Warehouse Report]()
 2. [Azure Data Warehouse .pptx]()
 
 
 ### Evaluating MOLAP, ROLAP, and HOLAP for a Pharmaceutical Manufacturer's Data Warehouse Project
-As a team we evaluated Multidimensional OLAP (MOLAP), Relational OLAP (ROLAP), and Hybrid OLAP (HOLAP) and made informed recommendations for their implementation in the data warehouse project for a large pharmaceutical manufacturer. 
+As a team, we evaluated Multidimensional OLAP (MOLAP), Relational OLAP (ROLAP), and Hybrid OLAP (HOLAP). We made informed recommendations for their implementation in the data warehouse project for a large pharmaceutical manufacturer. 
 #### CIS 3454 (Data Warehousing)
 - [Project Report .pdf](Olap_Mini_project.pdf)
 
@@ -56,6 +56,6 @@ As a team we evaluated Multidimensional OLAP (MOLAP), Relational OLAP (ROLAP), a
 
 ### Personal Project 
 1. Visualizing Citibike Trips with Tableau
-2. NLP: Twitter Sentiment Analysis
-3. COVID19 Data Visualization Using Python
+2. NLP: Twitter Sentiment Analysis 
+3. COVID-19 Data Visualization Using Python
 4. Data Analysis with SQL: Inform a Business Decision
